@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAFESAEnrolmentSystem", "TAFESAEnrolmentSystem\TAFESAEnrolmentSystem.csproj", "{0C23F5A0-B23C-407E-82B0-42E22A9F089E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAFESAEnrolmentSystem.Tests", "TAFESAEnrolmentSystem.Tests\TAFESAEnrolmentSystem.Tests.csproj", "{137CC66E-867A-421C-A366-B13F0D11E0A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C23F5A0-B23C-407E-82B0-42E22A9F089E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C23F5A0-B23C-407E-82B0-42E22A9F089E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C23F5A0-B23C-407E-82B0-42E22A9F089E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C23F5A0-B23C-407E-82B0-42E22A9F089E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137CC66E-867A-421C-A366-B13F0D11E0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137CC66E-867A-421C-A366-B13F0D11E0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137CC66E-867A-421C-A366-B13F0D11E0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137CC66E-867A-421C-A366-B13F0D11E0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DECA79F5-445D-4D63-A9D5-1C76B73BDEAD}
+	EndGlobalSection
+EndGlobal
