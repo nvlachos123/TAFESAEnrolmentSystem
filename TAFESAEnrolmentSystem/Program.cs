@@ -118,6 +118,7 @@ namespace TAFESAEnrolmentSystem
             Console.WriteLine($"student6 != student7: {student6 != student7}"); // False
             Console.WriteLine($"student6.GetHashCode(): {student6.GetHashCode()}"); // 0
 
+
             Console.ReadLine();
         }
     }
